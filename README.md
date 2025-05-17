@@ -11,3 +11,7 @@ As part of my internship at CodTech, Task 2 involved executing a predictive anal
 
 
 **OUTPUT(some of them)**
+![Image](https://github.com/user-attachments/assets/770e1c60-a440-470d-a773-ddbc45a06de2)
+![Image](https://github.com/user-attachments/assets/9adecbdc-ffe3-489d-9c40-01366f6083f7)
+![Image](https://github.com/user-attachments/assets/14a37bbd-3efd-4ddc-80b3-9c2b424c6917)
+![Image](https://github.com/user-attachments/assets/1169bf20-cf9a-45f5-b5b3-f65f67005167)
